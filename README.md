@@ -1,4 +1,4 @@
-Utilizando LM Studio com Gemma 3 para Análise de Imagens Médicas
+# Utilizando LM Studio com Gemma 3 para Análise de Imagens Médicas
 
 ## 📌 Introdução
 Este projeto demonstra a integração do **LM Studio** com o modelo **MedGemma-4B-IT**, uma variante especializada do **Gemma 3** desenvolvida para compreensão avançada de textos e imagens médicas. O MedGemma combina a arquitetura *decoder-only transformer* do Gemma 3 com treinamento específico em dados médicos, permitindo análise multimodal (texto + imagens) para aplicações clínicas.
